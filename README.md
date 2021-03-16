@@ -1,2 +1,2 @@
 # NetSec-scripts
-attacks for NYU's network security labs
+attacks for NYU's network security labs using SCAPY
