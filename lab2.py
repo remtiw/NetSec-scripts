@@ -9,7 +9,7 @@ def attack():
 
     #gets macs of machines using ips
     router_mac = getmacbyip(router_ip)
-    windows_ip = getmacbyip(windows_ip)
+    windows_mac = getmacbyip(windows_ip)
 
     while(True):
         try:
